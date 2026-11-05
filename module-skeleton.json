@@ -1,0 +1,15 @@
+{
+  "repository": "module-cms-notifications-and-subscriptions-nuxt",
+  "capabilityKey": "liberusoftware/module-cms-notifications-and-subscriptions",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-cms-notifications-and-subscriptions-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/cms/nextjs/notifications-and-subscriptions.md",
+  "presentationPlan": "projects/cms/nuxt/notifications-and-subscriptions.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "cms"
+  ]
+}
